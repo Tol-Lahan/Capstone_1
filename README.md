@@ -131,3 +131,5 @@ Based on my analysis, I recommend that Emporium focus on increasing sales in Con
 
 - `Capstone_1.sql` – Contains the SQL queries used to perform the Connecticut sales analysis.
 - `README.md` – Contains the project overview, objectives, analysis results, and business recommendations.
+- `Connecticut_Store_Ranking.csv` – Contains the Connecticut store revenue, store IDs, rankings, and store locations exported from SQL for Excel analysis.
+- `Lahan_Connecticut_chart.xlsx` – Contains the Excel PivotTable and PivotChart showing sales revenue by Connecticut store location.
